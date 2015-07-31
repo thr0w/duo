@@ -33,6 +33,7 @@ Install Duo straight from `npm` with:
 ```
 $ npm install -g duo
 ```
+> use ```npm install duo -g --build-from-source``` if you are getting prebuild error.
 
 ## Getting Started
 
